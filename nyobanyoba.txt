@@ -1,4 +1,5 @@
-membuat new folder
+membuat folder nyoba nyoba
 - belajar menggunakan github
 - belajar mengedit isi konten pada repository
 - belajar membuat kata kata untuk commit nantinya
+- mencoba mengedit dengan menambahkan isi konten dan menghapus lainnya
