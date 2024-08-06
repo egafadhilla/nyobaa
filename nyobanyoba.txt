@@ -1,2 +1,3 @@
 membuat new folder
 - belajar menggunakan github
+- belajar mengedit isi konten pada repository
